@@ -169,6 +169,9 @@
 #define MOUSEKEY_TIME_TO_MAX 5
 #define MOUSEKEY_WHEEL_DELAY 0
 
+/* Rotary Knob Control */
+// Uncomment this if you intend to use the rotary knob as a volume control
+// #define TAP_CODE_DELAY 100
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
